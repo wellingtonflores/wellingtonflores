@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/wellingtonflores/wellingtonflores/blob/master/download.jfif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/wellingtonflores/wellingtonflores/blob/master/assets/fe7cf85130d8be56e5eedb8d63fda1da.gif">
 </div>
 
 </br>
@@ -13,7 +13,7 @@
 
 ### - Eu tenho 19 anos estou aprendendo Desenvolvimento WEB sou do Brasil.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/942dfb39b155a5622ca7ba01f8bb3e9e.gif">
 
 
 
