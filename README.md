@@ -1,3 +1,19 @@
+# Konichiwa 👋
+
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
+
+</br>
+</br>
+</br>
+
+
+# About ME 💬 :
+
+### - Eu tenho 19 anos estou aprendendo Desenvolvimento WEB sou do Brasil.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 
 
@@ -50,7 +66,11 @@
 <a href="https://www.linkedin.com/in/wellington-flores/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
 </div>&nbsp;&nbsp;
  
-
+<p align="center" >  
+  <a href="https://github.com/wellingtonflores/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=wellingtonflores&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
