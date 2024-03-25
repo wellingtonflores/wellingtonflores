@@ -13,7 +13,7 @@
 
 ### - Eu tenho 19 anos estou aprendendo Desenvolvimento WEB sou do Brasil.
 
-<img height="100" width="200" alt="GIFGON" align="right" src="https://github.com/wellingtonflores/wellingtonflores/blob/main/assets/942dfb39b155a5622ca7ba01f8bb3e9e.gif">
+<img height="300" width="300" alt="GIFGON" align="right" src="https://github.com/wellingtonflores/wellingtonflores/blob/main/assets/942dfb39b155a5622ca7ba01f8bb3e9e.gif">
 
 
 
