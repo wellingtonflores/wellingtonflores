@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - Eu tenho 19 anos estou aprendendo Desenvolvimento WEB sou do Brasil.
+### - Eu tenho 22 anos estou aprendendo Desenvolvimento WEB sou do Brasil.
 
 <img height="400" width="1000" alt="GIFGON" align="center" src="https://github.com/wellingtonflores/wellingtonflores/blob/main/assets/942dfb39b155a5622ca7ba01f8bb3e9e.gif">
 
