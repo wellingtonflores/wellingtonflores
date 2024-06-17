@@ -19,10 +19,11 @@
 
 
 <!-- Para os ícones das linguagens -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonflores&layout=compact&theme=dark&bg_color=292D3E&icon_color=9A6BDC&text_color=7FFFD4" alt="wellingtonflores" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonflores&layout=compact&theme=dark&bg_color=292D3E&icon_color=9A6BDC&text_color=7FFFD4&title_color=3498DB" alt="wellingtonflores" /></p>
 
 <!-- Para as estatísticas gerais -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wellingtonflores&show_icons=true&theme=dark&bg_color=292D3E&icon_color=9A6BDC&text_color=7FFFD4" alt="wellingtonflores" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wellingtonflores&show_icons=true&theme=dark&bg_color=292D3E&icon_color=9A6BDC&text_color=7FFFD4&title_color=3498DB" alt="wellingtonflores" /></p>
+
 
 
 
