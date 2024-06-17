@@ -1,77 +1,24 @@
-# Konichiwa 👋
+<h1 align="center">Hi 👋, I'm Wellington</h1>
+<h3 align="center">I am a Back end developer</h3>
 
-<div align="center">
-<img height="300" width="700" alt="GIFGOJO" align="center" src="https://github.com/wellingtonflores/wellingtonflores/blob/main/assets/fe7cf85130d8be56e5eedb8d63fda1da.gif">
-</div>
+- 🌱 I’m currently learning **TypeScript**
 
-</br>
-</br>
-</br>
+- 👨‍💻 All of my projects are available at [https://github.com/wellingtonflores](https://github.com/wellingtonflores)
 
+- 💬 Ask me about **JavaScript**
 
-# About ME 💬 :
+- 📫 How to reach me **wellingtonluiscardoso@hotmail.com**
 
-### - Eu tenho 22 anos estou aprendendo Desenvolvimento WEB sou do Brasil.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/wellingtonflores" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wellingtonflores" height="30" width="40" /></a>
+</p>
 
-<img height="400" width="1000" alt="GIFGON" align="center" src="https://github.com/wellingtonflores/wellingtonflores/blob/main/assets/942dfb39b155a5622ca7ba01f8bb3e9e.gif">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wellingtonflores&show_icons=true&locale=en&layout=compact" alt="wellingtonflores" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wellingtonflores&show_icons=true&locale=en" alt="wellingtonflores" /></p>
 
-
-<p align="center">Eu ❤️ aprender novas tecnologias. <br><br> Desenvolvedor Back-End.</p>&nbsp;
-
-
- 
- &nbsp;
- &nbsp;
-
-
-
-## My Skills
-
-#### Main Stack:
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Secondary Stack:
-
-
-
-#### Studying in this moment:
-
-
-
-
-
-#### Databases:
-![PostgresSQL](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-
-
-
-
-
-&nbsp;
-&nbsp;
-
-## Contacts:
-
-<div> 
-<a href = "mailto:wellingtonluiscardoso@hotmail.com"> <img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/wellington-flores/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
-</div>&nbsp;&nbsp;
- 
-<p align="center" >  
-  <a href="https://github.com/wellingtonflores/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=wellingtonflores&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wellingtonflores&" alt="wellingtonflores" /></p>
