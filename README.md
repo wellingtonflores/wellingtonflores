@@ -22,7 +22,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonflores&layout=compact&theme=dark&bg_color=292D3E&icon_color=9A6BDC&text_color=98C379" alt="wellingtonflores" /></p>
 
 <!-- Para as estatísticas gerais -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wellingtonflores&show_icons=true&theme=dark&bg_color=292D3E&icon_color=9A6BDC&
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wellingtonflores&show_icons=true&theme=dark&bg_color=292D3E&icon_color=9A6BDC&text_color=98C379" alt="wellingtonflores" /></p>
+
 
 
 
