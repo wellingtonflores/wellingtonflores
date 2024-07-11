@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wellington</h1>
 <h3 align="center">I am a Back end developer</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **React**,**TypeScript** and **AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wellingtonflores](https://github.com/wellingtonflores)
 
