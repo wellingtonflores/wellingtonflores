@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wellington</h1>
 <h3 align="center">I am a Software Engineer</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wellingtonflores](https://github.com/wellingtonflores)
 
