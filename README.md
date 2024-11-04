@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wellington</h1>
-<h3 align="center">I am a FullStack developer</h3>
+<h3 align="center">I am a Software Engineer</h3>
 
 - 🌱 I’m currently learning **Java**
 
